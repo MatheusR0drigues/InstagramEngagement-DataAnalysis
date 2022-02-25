@@ -8,11 +8,11 @@
 <h2>Conclusion</h2>
   With this analysis I conclude the top 5 most engaged and relevant categories are:
   <ol>
-    <li>Actors, Actresses & Cinema</li>
-    <li>Music</li>
-    <li>Lifestyle</li>
-    <li>Sports with a ball</li>
-    <li>Shows</li>
+    <li>Actors, Actresses & Cinema - 21.19%</li>
+    <li>Music - 20.19%</li>
+    <li>Lifestyle - 12.22%</li>
+    <li>Sports with a ball - 9.05%</li>
+    <li>Modeling - 6.19%</li>
   </ol>
   
 <h2>Info</h2>
